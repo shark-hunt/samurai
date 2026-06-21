@@ -78,4 +78,3 @@ The tool uses lists of `male` and `female` first names for different countries:
 	- http://logistik.mybb.ru/viewtopic.php?id=141
 - USA:
 	- 1990 census: e.g., http://www.uta.fi/FAST/US7/NAMES/male1st.html and http://www.uta.fi/FAST/US7/NAMES/female-1.html
-
